@@ -26,3 +26,5 @@ Proyek ini mengimplementasikan data pipeline end-to-end untuk mengambil data pes
 
 ---
 *Dibuat untuk Tugas Oprec MCI 2026 oleh Kelompok 29*
+
+<img width="1445" height="752" alt="image" src="https://github.com/user-attachments/assets/3ac720e1-a71d-46ba-b308-1004c710124d" />
