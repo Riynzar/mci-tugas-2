@@ -29,4 +29,5 @@ Proyek ini mengimplementasikan data pipeline end-to-end untuk mengambil data pes
 
 <img width="1445" height="752" alt="image" src="https://github.com/user-attachments/assets/3ac720e1-a71d-46ba-b308-1004c710124d" />
 <img width="1333" height="795" alt="image" src="https://github.com/user-attachments/assets/82924035-5c96-4149-b706-80f1afd351a3" />
-<img width="1352" height="808" alt="image" src="https://github.com/user-attachments/assets/16cb2b02-ee5c-4c31-9f50-c3ed0b8ba259" />
+<img width="1321" height="696" alt="image" src="https://github.com/user-attachments/assets/d649e085-eb10-468f-9374-bd0c51a7d6c5" />
+
